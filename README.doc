@@ -1,0 +1,16 @@
+# Tên Dự Án
+Mô tả ngắn gọn: Bài tập lớn số 2: Chương trình mã hóa/giải mã bằng python.
+
+## Tính năng chính
+- ENCRYPTION
+    + CAESAR ENCRYPTION
+    + RAIL-FENCE ENCRYPTION
+    + MULTIPLE ENCRYPTION
+- DECRYPTION
+
+## Hướng dẫn sử dụng
+    Chạy lệnh sau:
+        python __main__.py
+    Thay đổi đường dẫn file:
+        Vào __main__.py
+        Thay đổi plaintext_file = <đường dẫn đến file plaintext>
